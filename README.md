@@ -49,7 +49,7 @@ localStorage.userId
 
 
 ```console
-sudo apt install screen & screen -s grass
+sudo apt install screen & screen -S grass
 
 ```
 ## Ve çalıştırıyoruz.
